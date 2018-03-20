@@ -1,0 +1,30 @@
+﻿<Window x:Class="Power_Animal_Generator.Power_Animal_Generator_Data_Analysis"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Power_Animal_Generator"
+        mc:Ignorable="d"
+        Title="Power Animal Generator" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="{DynamicResource titlebanner}" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label x:Name="Intro" Content="I am going to ask you a few a questions inorder&#xD;&#xA; to calculate what Organisms best represent you&#xD;&#xA; and your nemesis..." HorizontalAlignment="Left" Margin="41,30,0,0" VerticalAlignment="Top" Height="124" Width="665" FontSize="36" FontFamily="Tw Cen MT Condensed Extra Bold">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource Cheddar}"/>
+            </Label.Foreground>
+        </Label>
+        <Label Content="Whats your First Name?" HorizontalAlignment="Left" Margin="41,174,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <Label Content="Whats the First Name of your Nemesis?" HorizontalAlignment="Left" Margin="41,254,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <Label Content="Pick an Integer:" HorizontalAlignment="Left" Margin="41,327,0,0" VerticalAlignment="Top" FontSize="24" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <TextBox x:Name="NameInput" HorizontalAlignment="Left" Height="34" Margin="41,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="536" FontSize="28" FontFamily="Tw Cen MT Condensed Extra Bold" TextChanged="TextBox_TextChanged" TextAlignment="Center"/>
+        <TextBox x:Name="ONameInput" HorizontalAlignment="Left" Height="34" Margin="41,288,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="427" FontSize="28" FontFamily="Tw Cen MT Condensed Extra Bold" TextChanged="TextBox_TextChanged" TextAlignment="Center"/>
+        <TextBox x:Name="NumberInput" HorizontalAlignment="Left" Height="34" Margin="41,363,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262" FontSize="28" FontFamily="Tw Cen MT Condensed Extra Bold" TextChanged="TextBox_TextChanged" TextAlignment="Center"/>
+        <Button x:Name="nextButton" Content="Next" HorizontalAlignment="Left" Margin="653,348,0,0" Width="139" Background="#FF330164" FontFamily="Showcard Gothic" FontSize="36" Click="Calc" IsCancel="True" FontStyle="Italic"/>
+
+    </Grid>
+</Window>

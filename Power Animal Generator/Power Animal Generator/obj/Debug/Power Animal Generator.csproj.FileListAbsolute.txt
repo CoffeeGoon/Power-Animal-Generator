@@ -1,0 +1,27 @@
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\bin\Debug\gmap.png
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\bin\Debug\Power Animal Generator.exe.config
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\bin\Debug\Power Animal Generator.exe
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\bin\Debug\Power Animal Generator.pdb
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator DE.g.cs
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator Zone.g.cs
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator Result.g.cs
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\App.g.cs
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator_Content.g.cs
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator_MarkupCompile.cache
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator_MarkupCompile.lref
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\App.baml
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator DE.baml
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator Zone.baml
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator Result.baml
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator.g.resources
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power_Animal_Generator.Properties.Resources.resources
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator.csproj.GenerateResource.cache
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator.csproj.CoreCompileInputs.cache
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator.csproj.CopyComplete
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator.exe
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator.pdb
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator Intro.g.cs
+C:\Users\Newborn Christenson\source\repos\Power Animal Generator\Power Animal Generator\obj\Debug\Power Animal Generator Intro.baml
